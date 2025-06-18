@@ -44,7 +44,7 @@ window.onscroll = function() {
     } 
     else {
         // Move up
-        titre.style.top = "-600px";
+        titre.style.top = "-800px";
         titre.style.transition = "top .8s ease-in-out";
         wrap.style.right = "-420px";
         wrap.style.transition = "right .8s ease-in-out";
